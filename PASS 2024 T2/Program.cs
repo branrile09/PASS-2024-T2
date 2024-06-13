@@ -64,16 +64,7 @@
             {
                 Console.WriteLine(a);
             }
-
-            
-
-
-
-
-
-
-
-
+                   
 
 
 
