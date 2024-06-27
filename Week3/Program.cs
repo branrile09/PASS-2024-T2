@@ -65,7 +65,7 @@
 
 
             // save the string to an intiger
-            int newNumb = int.TryParse
+            //int newNumb = int.TryParse(newNumber);
             int newNumberi = int.Parse(newNumber);
             newNumberi = int.Parse(newNumber);
 
