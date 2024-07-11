@@ -29,9 +29,7 @@
  * ask anything
  *               
  *  ----- Form/Survey(anon) -----
- *  
- *  https://forms.office.com/r/Y30Gf5ZDVF
- *  
+
  *  ----- Next week -----
  *  
  *  Functions/Methods
@@ -169,7 +167,7 @@
              * Boolean condition is evaluated. the statements within the loop will continue execute until the
              * boolean condition evaluates 
              * 
-             * ndo{//dosomething}while(True)
+             * do{//dosomething}while(True);
              */
             //b) example code (loop while meaning of life is != 42 )
             int meaningOfLife = 50;
@@ -211,7 +209,7 @@
                     if (c2 == c)
                     {
                         vowelQuantity++;
-                        continue;
+                        break;
                     }
                 }
             }
@@ -240,20 +238,6 @@
 
             //5. explain the difference between list and array
 
-            // ----- Nested Loops ----
-            //1.
-            // from the 2d array from earlier, assign random values between 1 and 100
-
-            //example code for random
-
-
-            //
-            //2.
-            //from the 2d array from earlier, find the average.
-
-
-            //usinrays can be used for all sorts of things, such as AI, Data Science, Game matrix tables, Path finding, etc
-
 
             // ----- Nested Loops ----
             //1.
@@ -271,7 +255,7 @@
 
 
 
+
         }
     }
 }
-           
